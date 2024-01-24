@@ -1,0 +1,93 @@
+26 de setembro - 2 de outubro:
+
+Lecture 01: General Introduction to the Unit. Computers, Algorithms and Programs. Python.
+Lecture 02: Simple Python Data. Variables, expressions and statements. Operators and precedence. Values, data types, and type casts. Operations on strings. Input.
+
+------------------------------------------------------------------------
+3 de outubro - 9 de outubro:
+Lecture 03: Import a module. Simple graphics in Python. Flow of execution of the for loop. The range function. Conditionals and selection. Boolean values and expressions. Logical operators. Conditional execution. If-then-else and nested conditionals.
+
+------------------------------------------------------------------------
+10 de outubro - 16 de outubro:
+Lecture 04: Iteration using while statements. The break statement. The continue statement. Nested Loops for Nested Data.
+
+Lecture 05: Functions. Function definition and function call. Formal and actual parameters. Flow of execution. Return values. Use of the return statement. Boolean functions. Incremental programming. Function composition. PEP8. Help and Meta-notation. Debugging Interlude.
+
+-------------------------------------------------------------------------
+
+17 de outubro - 23 de outubro:
+Lecture 06: Compound data types. Strings. Working with strings. Operations with strings. Format strings. Strings are immutable.
+
+Lecture 07: Tuples. Working with tuples. Operations with tuples. Tuples are immutable.
+
+--------------------------------------------------------------------------
+
+24 de outubro - 30 de outubro
+
+Lecture 08: Working with lists. Operations with Lists. Lists are mutable.
+
+Lecture 09: Lists. List methods. Looping and lists. Pure functions and modifiers. Type conversions: list and range. Nested lists.
+
+
+--------------------------------------------------------------------------
+
+7 de novembro - 13 de novembro
+
+Lecture 10: Dictionary operations and methods. Aliasing and copying. Sparse matrices.
+
+Lecture 11: Mutable and immutable datatypes. Aliasing and shallow copy. Datatypes: Sets & Frozensets. Hashing. Use the main operations and methods available to work with sets.
+
+---------------------------------------------------------------------------
+
+14 de novembro - 20 de novembro
+
+Lecture 12: Recursion. Recursive case studies: factorial, Fibonacci numbers, fractals. Recursive data structures. Mutual recursion. Infinite recursion.
+
+Lecture 13: Recursive case studies: Tower of Hanoi. Recursion versus Iteration: Calculating the sum of a list of numbers, Factorial, Fibonacci, Palindrome, Converting to any base. Memoisation.
+
+
+----------------------------------------------------------------------------
+
+21 de novembro - 27 de novembro
+
+Lecture 14: Functional Programming. Pure functions. Advanced collection concepts using Lists of Tuples. Sequence Processing Functions: map(), filter(), reduce(). Advanced list sorting. Lambda forms.
+
+
+Lecture 15: Common list processing patterns using comprehensions. Iterators. List comprehensions. Generator comprehensions. Set comprehensions. Dictionary expressions.
+
+----------------------------------------------------------------------------
+
+28 de novembro - 4 de dezembro
+
+Lecture 16: First-class functions. Higher-order functions. Functions as parameters and callbacks. Nested functions. Functions as return values and closures. Currying. Partial function application.
+
+
+Lecture 17: Effect-free programming style. Side-effects. Avoiding flow control. Closures and callables. Generator functions and lazy evaluation. Higher-Order Functions (HOF). Equivalences HOF and comprehensions
+
+
+-----------------------------------------------------------------------------
+
+5 de dezembro - 11 de dezembro
+
+Lecture 18: Algorithms that work with lists. The linear search algorithm. Binary Search. Merging sorted lists.
+
+Lecture 19: What is Algorithm analysis. Order of growth. Big-O notation. Performance of Python data structures: Lists, Dictionaries.
+
+
+-----------------------------------------------------------------------------
+
+12 de dezembro - 18 de dezembro
+
+Lecture 20: Modules. Library random, time and math modules. Creating a new module. Namespaces, scope and lookup rules
+
+
+Lecture 21: Introduction to Unit testing. Use of main() function. Global variables. Program development tips and tricks. Static type checking and type hints.
+
+----------------------------------------------------------------------------
+
+2 de janeiro - 8 de janeiro
+
+Lecture 22: Files. Writing to a file. Reading a file line-at-a-time. Directories. Fetching resources from the Web.
+
+
+Lecture 23: Errors and runtime exceptions. Catching exceptions. Raising own exceptions. Assertions.

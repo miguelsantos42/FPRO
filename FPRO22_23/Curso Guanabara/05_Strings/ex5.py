@@ -1,0 +1,5 @@
+phrase = str(input()).strip()
+phrase = phrase.upper()
+print(phrase.count('A'))
+print(phrase.find('A')+1)
+print(phrase.rfind('A')+1)
