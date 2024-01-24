@@ -1,0 +1,40 @@
+1) A
+
+2) C
+
+3) B
+
+4) D
+
+5) C
+
+6) D
+
+7) D
+
+8) C
+
+9) C
+
+10) C
+
+11) C, apenas a função interna é chamada com o 10, sendo m = 10,
+       o n não é chamado, logo irá dar erro.
+       
+12) C
+
+13) A
+
+14) A
+
+15) C
+
+16) D
+
+17) B
+
+18) D
+
+19) D
+
+20) B

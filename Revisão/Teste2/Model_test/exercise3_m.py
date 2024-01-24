@@ -1,0 +1,1 @@
+#def total_distance(dist, cities):
